@@ -1,0 +1,5 @@
+satisfied ; Messdorfer Feld ; less than once a month ; On foot ; >40 ; walking/hiking/jogging ;Alter Friedhof ; 1-2 times a month ; by bike ;  11-20 ; ball sports ; Botanischer Garten ; once a week ; by cars ; 21-30 ; relaxation purposes ;Community garden ; 53127 ; female ; 36-50 ; comman law ; >=5
+less satisfied ; Kottenforst ; less than once a month ; by bike ;  11-20 ; ball sports ;Ennerter Wald ; 1-2 times a month ; by bike ;  11-20 ; ball sports ; Hofgarten ; once a week ; by bike ; 21-30 ; ball sports ;Own garden,Community garden ; 7.185402,50.738411 ; male ; 21-35 ; umarried ; 4
+satisfied ; Kottenforst ; less than once a month ; On foot ; <=10 ; walking/hiking/jogging ; ;  ;  ;  ;  ;  ;  ;  ;  ;  ;Balkony/terrace,Own garden,Community garden ; 53121 ; male ; 21-35 ; married ; 3
+neutral ; Ennerter Wald ; once a week ; by cars ; <=10 ; ball sports ; ;  ;  ;  ;  ;  ;  ;  ;  ;  ;Own garden,Community garden ; 53227 ; third gender ; 21-35 ; umarried ; 4
+neutral ; Ennerter Wald ; less than once a month ; On foot ; <=10 ; walking/hiking/jogging ; ;  ;  ;  ;  ;  ;  ;  ;  ;  ;Own garden,Community garden ; 53115 ; male ; 21-35 ; married ; 2
